@@ -9,8 +9,8 @@ This repository will hold assignments for my programming class.
 Some of my biggest interests, that do not include my friends and family, are reading and astrology. I know astrology is an oddball interest. 
 I actually started learning about astrology during COVID. It was the only hobby from that crazy time that I still participate in. I like finding the
 correlated patterns between the stars and real life. As for reading it has been a life long passion, particularly the fantasy genre. I like 
-seeing how authors write magic systems and how said system influences the characters'actions. Not to say I do not read other genres, but I will say 
-out of the 200+ (almost 300) physical boos I owe a vast majority of them are fantasy.
+seeing how authors write magic systems and how said system influences the characters' actions. Not that I do not read other genres, but I will say 
+out of the 200+ (almost 300) physical books I owe a vast majority of them are fantasy.
 
 ## Website I Reccomend
 Websites I would reccomend based off my hobbies if one finds it peaks anyone's interest. 
